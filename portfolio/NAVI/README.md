@@ -3,7 +3,7 @@
 ## 📄 프로젝트 포트폴리오 (PDF)
 아래 이미지를 클릭하면 전체 포트폴리오 PDF가 열립니다.
 
-[![NAVI Portfolio](./navi_portfolio_cover.png)](./navi_portfolio.pdf)
+[![NAVI Portfolio](./navi_portfolio_cover.png)](./Project_Portfolio.pdf)
 
 ---
 
